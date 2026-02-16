@@ -1,0 +1,46 @@
+base_url = "https://untode.su"
+
+title = "untode.su"
+description = "the unfunniest website known to exist"
+default_language = "en"
+
+theme = "apollo"
+
+build_search_index = false
+generate_feeds = true
+compile_sass = true
+minify_html = true
+
+taxonomies = [{ name = "tags" }]
+
+[markdown.highlighting]
+light_theme = "github-light"
+dark_theme = "github-dark"
+
+[extra]
+toc = true
+use_cdn = false
+theme = "toggle"
+fancy_mode = false
+dynamic_note = false
+
+favicon = "/favicon.ico"
+
+mathjax = true
+mathjax_dollar_inline_enable = true
+
+menu = [
+  { name = "[blog]", url = "/posts", weight = 1 },
+  { name = "[projects]", url = "/projects", weight = 2 },
+  { name = "[tags]", url = "/tags", weight = 3 },
+]
+
+socials = [
+  { name = "codeberg", url = "https://codeberg.org/untodesu", icon = "codeberg" },
+  { name = "github", url = "https://github.com/untodesu", icon = "github" },
+  { name = "telegram", url = "https://t.me/undptr", icon = "telegram" },
+]
+
+[extra.taxonomies]
+sort_by = "page_count"
+reverse = true
