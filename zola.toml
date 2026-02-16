@@ -38,8 +38,8 @@ menu = [
 
 socials = [
   { name = "codeberg", url = "https://codeberg.org/untodesu", icon = "codeberg" },
-  { name = "github", url = "https://github.com/untodesu", icon = "github" },
-  { name = "telegram", url = "https://t.me/undptr", icon = "telegram" },
+  { name = "matrix", url = "https://matrix.to/#/@untodesu:4d2.org", icon = "matrix-invert" },
+  { name = "youtube", url = "https://www.youtube.com/@untodesu", icon = "youtube" },
 ]
 
 [extra.taxonomies]
