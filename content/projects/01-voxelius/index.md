@@ -8,4 +8,9 @@ weight = 1
 url = "https://codeberg.org/voxelius/voxelius"
 text = "Codeberg"
 icon = "codeberg"
+
+[[extra.links]]
+url = "https://www.youtube.com/playlist?list=PLiVmPY56QibvPB-AzmwhUvD8dVcANndRg"
+text = "Showcase"
+icon = "youtube"
 +++
