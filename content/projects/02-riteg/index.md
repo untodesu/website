@@ -10,7 +10,7 @@ text = "Codeberg"
 icon = "codeberg"
 
 [[extra.links]]
-url = "https://youtu.be/WoGiQ-buKwk"
+url = "https://www.youtube.com/playlist?list=PLiVmPY56QibuawUl1IQE5U0qPUyFWhOS9"
 text = "Showcase"
 icon = "youtube"
 
