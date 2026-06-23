@@ -5,9 +5,9 @@ extra.local_image = "02-riteg/project.vhs43.02.png"
 weight = 2
 
 [[extra.links]]
-url = "https://github.com/untodesu/riteg"
-text = "GitHub"
-icon = "github"
+url = "https://codeberg.org/untodesu/riteg"
+text = "Codeberg"
+icon = "codeberg"
 
 [[extra.links]]
 url = "https://youtu.be/WoGiQ-buKwk"
@@ -15,7 +15,7 @@ text = "Showcase"
 icon = "youtube"
 
 [[extra.links]]
-url = "https://untodesu.github.io/riteg"
+url = "https://untodesu.codeberg.page/riteg"
 text = "Documentation"
 icon = "globe"
 +++
