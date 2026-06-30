@@ -5,7 +5,7 @@ template = "home_untodesu.html"
 
 My name is [Kirill](https://en.wiktionary.org/wiki/Кирилл#Russian) and I work as a software engineer. As one can probably notice, making rocks and wires do my bidding is quite a hobby to me and has been that for over 7 years, it also pays my bills for over a year now!  
 
-I have a Bachelor's degree in [RF Engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering) and currently figuring out my Masters thesis in the same field. So technically speaking, I can be called an antenna goblin and won't get mad at this 😁
+I have a Master's degree in [RF Engineering](https://en.wikipedia.org/wiki/Radio-frequency_engineering) and currently aiming for a PhD equivalent in the same field. TL;DR - I am an antenna goblin  
 
 # Some trivia about me
 
