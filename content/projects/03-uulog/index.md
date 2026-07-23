@@ -5,7 +5,7 @@ extra.local_image = "03-uulog/screenshot-customsink.png"
 weight = 3
 
 [[extra.links]]
-url = "https://codeberg.org/untodesu/uulog"
-text = "Codeberg"
-icon = "codeberg"
+url = "https://github.com/untodesu/uulog"
+text = "GitHub"
+icon = "github"
 +++

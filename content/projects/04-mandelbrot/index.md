@@ -5,9 +5,9 @@ extra.local_image = "04-mandelbrot/02600_F64.bmp.png"
 weight = 4
 
 [[extra.links]]
-url = "https://codeberg.org/untodesu/mandelbrot"
-text = "Codeberg"
-icon = "codeberg"
+url = "https://github.com/untodesu/mandelbrot"
+text = "GitHub"
+icon = "github"
 
 [[extra.links]]
 url = "https://youtu.be/9fJk0ewLCBI"

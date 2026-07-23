@@ -41,7 +41,7 @@ As it turns out, 32-bit floating point precision is not quite enough to do large
 There we go, now it's much less pixelated...
 
 # Some pictures
-I passed these through [RITEG](https://untodesu.codeberg.page/riteg) and in my opinion these are the prime wallpaper material:  
+I passed these through [RITEG](https://untodesu.github.io/riteg) and in my opinion these are the prime wallpaper material:  
 
 ![](mandelbrot1.png)  
 ![](mandelbrot2.png)  

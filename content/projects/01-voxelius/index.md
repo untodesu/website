@@ -5,9 +5,9 @@ extra.local_image = "01-voxelius/background.png"
 weight = 1
 
 [[extra.links]]
-url = "https://codeberg.org/voxelius/voxelius"
-text = "Codeberg"
-icon = "codeberg"
+url = "https://github.com/untodesu/voxelius"
+text = "GitHub"
+icon = "github"
 
 [[extra.links]]
 url = "https://www.youtube.com/playlist?list=PLiVmPY56QibvPB-AzmwhUvD8dVcANndRg"
