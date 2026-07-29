@@ -13,4 +13,9 @@ icon = "github"
 url = "https://www.youtube.com/playlist?list=PLiVmPY56QibvPB-AzmwhUvD8dVcANndRg"
 text = "Showcase"
 icon = "youtube"
+
+[[extra.links]]
+url = "https://untodesu.github.io/voxelius"
+text = "Website"
+icon = "globe"
 +++
