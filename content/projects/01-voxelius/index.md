@@ -5,7 +5,7 @@ extra.local_image = "01-voxelius/background.png"
 weight = 1
 
 [[extra.links]]
-url = "https://github.com/untodesu/voxelius"
+url = "https://github.com/voxelius/voxelius"
 text = "GitHub"
 icon = "github"
 
@@ -15,7 +15,7 @@ text = "Showcase"
 icon = "youtube"
 
 [[extra.links]]
-url = "https://untodesu.github.io/voxelius"
+url = "https://voxelius.github.io"
 text = "Website"
 icon = "globe"
 +++

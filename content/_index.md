@@ -17,7 +17,7 @@ Have you ever seen a video of an object spinning with a low-quality version of F
 
 ## Personal project as a resume
 
-My project, [Voxelius](https://github.com/untodesu/voxelius) is one of reasons I got my current job. Essentially, what seems to have impressed the lead programmer is the fact that I both know my way around newer C++ (specifically C++17 and C++20) and I know at least something about trigonometry and graphics programming 🙃  
+My project, [Voxelius](https://github.com/voxelius/voxelius) is one of reasons I got my current job. Essentially, what seems to have impressed the lead programmer is the fact that I both know my way around newer C++ (specifically C++17 and C++20) and I know at least something about trigonometry and graphics programming 🙃  
 
 # 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺 🇷🇺
 
